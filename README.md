@@ -1,2 +1,2 @@
-# React Context
-React App using context API to manage data
+# React Context & Hooks
+React App using context API and hooks to manage data
